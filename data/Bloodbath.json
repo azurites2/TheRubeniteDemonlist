@@ -2,11 +2,17 @@
     "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
-    "creators": [],
+    "creator & verifier": [Riot],
     "completer": "RubenRushGD",
     "verification": "https://youtu.be/yHUOXExVyiE?si=l75LwMTuvGHdtLeR",
     "percentToQualify": "67",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "BNWBunny",
+            "link": "https://youtu.be/VbpBKHhS_aE?si=kWxkzLxpg1hgv74G",
+            "percent": 100,
+            "hz": 60
     ]
 }
