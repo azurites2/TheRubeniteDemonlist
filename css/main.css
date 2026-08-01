@@ -31,7 +31,6 @@ body {
 body {
     display: flex;
     flex-direction: column;
-    font-family: "Montserrat"
     margin: 0;
 }
 
